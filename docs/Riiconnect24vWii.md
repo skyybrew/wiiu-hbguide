@@ -2,7 +2,7 @@
 
 ?> Riiconnect24 restores the functionality of wiiconnect24.
 
-!> This Guide is for the vWii only trying this on an original wii or wii mini could cause a brick
+!> This Guide is for the vWii only trying this on an original Wii or Wii Mini could result in a brick.
 
 ## Required Downloads
 The RiiConnect24 Patcher, which you can grab from [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/download/v1.5.2%2Fv1.2.0/RiiConnect24Patcher.bat) on Windows.
@@ -15,7 +15,7 @@ Or if you are on Linux, grab it from [here](https://github.com/RiiConnect24/RiiC
 3. Press 2 to select "Wii U vWii"
 4. Press 1 to select "Install RiiConnect24"
 5. Press 1 to select "Express (Recommended)
-6. Select the region of your wii u
+6. Select the region of your WiiU
 7. You may have an option to install additional channels. If you would like to install them, press the numbers linked to those options
 8. Insert your SD card into your computer
 9. Select 1 to start patching
@@ -24,7 +24,7 @@ Or if you are on Linux, grab it from [here](https://github.com/RiiConnect24/RiiC
 ## Installing the wads
 1. If the patcher has not copied the files to your SD card automatically, you will need to copy them manually
 2. Turn on your wii u and go to the homebrew channel
-3. Open Wii Mod Lite - If that is not there, you have not intalled the files correctly so you need to repeat the previous steps.
+3. Open up Wii Mod Lite - If that is not there, you have not intalled the files correctly so you need to repeat the previous steps.
 4. Navigate to WAD manager
 5. Highlight all of the RiiConnect24 wads and select install
 6. Wii Mod Lite should now be installing the WADs
