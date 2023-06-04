@@ -9,7 +9,7 @@
 3️⃣ Use your gamepad's D-Pad to select the following options:
 - Dump SLC: **yes**
 - Dump SLCCMPT: **yes**
-- Dump MLC: **no**
+- Dump MLC: **optional**
 - Dump OTP: **yes**
 - Dump SEEPROM: **yes**
 
