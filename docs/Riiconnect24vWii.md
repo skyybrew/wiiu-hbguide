@@ -5,7 +5,9 @@
 !> This Guide is for the vWii only trying this on an original wii or wii mini could cause a brick
 
 ## Required Downloads
-RiiConnect24 Patcher https://github.com/RiiConnect24/RiiConnect24-Patcher/releases
+The RiiConnect24 Patcher, which you can grab from [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/download/v1.5.2%2Fv1.2.0/RiiConnect24Patcher.bat) on Windows.
+
+Or if you are on Linux, grab it from [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/download/v1.5.2%2Fv1.2.0/RiiConnect24Patcher.sh)
 
 ## Running the patcher
 1. Run the RiiConnect24 patcher (linked above)
