@@ -29,6 +29,13 @@
 [NUSspli](/NUSspli)
 
 - **Installing Apps (vWii)**
+[Open Shop Channel](/OSC)
+
+- **Nand Dumping**
+[DumpMiiNand](/vWiiNand)
+
+- **Services**
+[RiiConnect24](/Riiconnect24vWii)
 
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/skyybrew/wiiu-hbguide)
 - [![YouTube](https://icongr.am/simple/youtube.svg?color=808080&size=16)YouTube](https://www.youtube.com/@Jacob-Bjorne)
