@@ -32,7 +32,7 @@
 [Open Shop Channel](/OSC)
 
 - **Nand Dumping**
-[DumpMiiNand](/vWiiNand)
+[DumpMiiNand (vWii)](/vWiiNand)
 
 - **Services**
 [RiiConnect24](/Riiconnect24vWii)
