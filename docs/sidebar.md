@@ -31,6 +31,7 @@
 
 - **Installing Apps (vWii)**
 [Open Shop Channel](/OSC)
+[Riivolution](/riivolution)
 
 - **NAND**
 [DumpMiiNand (vWii)](/vWiiNand)
