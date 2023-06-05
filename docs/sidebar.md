@@ -27,12 +27,15 @@
 
 - **Installing Apps (WiiU)**
 [NUSspli](/NUSspli)
+[Decaffinator](/Decaffinator)
 
 - **Installing Apps (vWii)**
 [Open Shop Channel](/OSC)
 
-- **Nand Dumping**
+- **Nand Dumping/Nand Restoring**
 [DumpMiiNand (vWii)](/vWiiNand)
+[vWiiNandRestorer](/vWiiNandRestorer)
+
 
 - **Services**
 [RiiConnect24](/Riiconnect24vWii)
