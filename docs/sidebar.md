@@ -32,7 +32,7 @@
 - **Installing Apps (vWii)**
 [Open Shop Channel](/OSC)
 
-- **Nand Dumping/Nand Restoring**
+- **NAND**
 [DumpMiiNand (vWii)](/vWiiNand)
 [vWiiNandRestorer](/vWiiNandRestorer)
 
