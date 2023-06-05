@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome! This guide will take you from stock firmware's (5.5.5/5.5.6) to a Custom Firmware. (Tiramisu or Aroma.) We hope you enjoy!
+Welcome! This website will guide you from taking your WiiU's stock firmware's (5.5.5/5.5.6) to a Custom Firmware. (Tiramisu or Aroma.) We hope you enjoy!
 
 ?> For help in English, visit the discord server (UNDER CONSTRUCTION)
 
@@ -9,3 +9,6 @@ Welcome! This guide will take you from stock firmware's (5.5.5/5.5.6) to a Custo
 - **Continue to [SD Preparation](/sd) Tiramisu**
 
 - **Continue to [SD Preparation](/startaroma) Aroma**
+
+
+Made with love by the Skyybrew Team.
