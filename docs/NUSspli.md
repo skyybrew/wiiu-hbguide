@@ -1,39 +1,37 @@
-## What is NUSspli?
+# NUSspli
 
-NUSspli is a Nintendo Eshop replacement, everything on it is free and you can find anything from mario kart, to a weird barbie game..
-
-It downloads everything from the encrypted eshop servers, so you can have peace of mind.
+NUSspli is a substitute for the Nintendo eShop that allows you to download games using Nintendo's NUS servers.
 
 !> Only install games you own. It is the law.
 
-## What are the prerequisites?
+## What you need
+- [NUSSpli](https://github.com/V10lator/NUSspli/releases)
 
-?> You need a homebrewed WiiU with tiramisu or aroma installed. Follow our guide for tiramisu [Here](https://wiiu.skyybrew.xyz/#/sd). Or, our guide for aroma [Here](https://wiiu.skyybrew.xyz/#/startaroma)
+?> In order to proceed, you will need a WiiU that has been homebrewed with either Tiramisu or Aroma installed. Please follow our guide for Tiramisu [here](https://wiiu.skyybrew.xyz/#/sd) or our guide for Aroma [here](https://wiiu.skyybrew.xyz/#/startaroma).
 
-## Installing NUSspli.
+## Installing NUSspli
 
-1. Downloading the app: First of course, we need the actual file for the app. Grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-HBL.zip), Or if your on aroma grab it [Here](https://github.com/V10lator/NUSspli/releases/download/v1.135/NUSspli-1.135-Aroma.zip)
-2. Extract the folder.
-3. When extracted, insert your WiiU's SD card into your pc. 
-4. Move the extracted file into this directory on your SD card: wiiu/apps
-5. Eject the SD card from your pc, and put it back in the WiiU. Proceed to power on the WiiU.
-6. Boot into the homebrew launcher however you wish.
-7. Once in the homebrew launcher, navigate to the NUSspli app.
-8. Congrats! You have installed NUSspli!
+1. Extract the folder.
+2. When extracted, insert your WiiU's SD card into your pc. 
+3. Move the extracted file into this directory on your SD card: wiiu/apps
+4. Eject the SD card from your pc, and put it back in the WiiU. Proceed to power on the WiiU.
+5. Boot into the homebrew launcher however you wish.
+6. Once in the homebrew launcher, navigate to the NUSspli app.
+7. Congrats! You have installed NUSspli!
 
 ## Usage
 
-NUSspli is very easy to use. This is a short guide i have made on how to use it.
+NUSspli is very easy to use. Here is a short guide on how to use it.
 
-1. Boot up the app.
-2. Go to the search icon and search any game you wish to install.
-3. Once located, press A on the gamepad on that game.
-4. You will see some settings, It should ask if you want to install it to your NAND or USB. Install it to which one you please.
-5. Your game should now start downloading, NUSspli is not that fast so be patient.
+1. Launch the NUSspli app on your WiiU.
+2. Use the search icon to look for the game you want to install.
+3. When you find the desired game, press the A button on your gamepad.
+4. You will be presented with some settings. Choose whether you want to install the game to your NAND (internal storage) or USB (external storage).
+5. The game will begin downloading now. Keep in mind that NUSspli might not download at a very fast speed, so please be patient.
 
-And thats all you have to do! Enjoy!
+And that's all you need to do! Enjoy!
 
-?> If you have any errors, continue to this [page.](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting)
+?> If you have any errors, continue to this [page](https://wiiu.skyybrew.xyz/#/NUSspliTroubleshooting).
 
 
 
