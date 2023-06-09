@@ -1,7 +1,6 @@
 ## What is NUSspli?
 
-NUSspli is a Nintendo Eshop replacement, everything on it is free and you can find anything from mario kart, to a weird barbie game, It downloads everything from the encrypted eshop servers, so you can have peace of mind.
-
+NUSspli is a substitute for the Nintendo eShop that allows you to download games using Nintendo's NUS servers.
 
 !> Only install games you own. It is the law.
 
