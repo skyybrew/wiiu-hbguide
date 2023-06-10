@@ -3,17 +3,17 @@
 ?> Riivolution is a way to add temporary ROM hacks to your disc
 
 ## Downloads
-- Riivolution can be downloaded [here](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
-- Mario Kart Wii ROM hacks can be found [here](https://wiki.tockdom.com/wiki/Main_Page)
+- [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 
 ## Files
-1. Extract Riivolution to your SD card
-2. On the root of your SD card, create a new folder titled `riivolution`.
-3. In the ROM hack you have downloaded, there will be a file that ends in .XML Place that file in the riivolution folder on the root of the SD card
-4. In the ROM hack you have downloaded, there will be another folder which is usually a condensed name of the mod. Put that folder on the root of the SD card
+1. Extract the Riivolution files to your SD card.
+2. Create a new folder on the root of your SD card and name it "riivolution".
+3. Locate the .XML file in the ROM hack you have downloaded and place it inside the "riivolution" folder on the SD card.
+4. Additionally, there may be a separate folder in the ROM hack, usually with a condensed name representing the mod. Copy this folder and place it on the root of the SD card.
 
+By following these steps, you will successfully set up Riivolution on your SD card and properly organize the necessary files for the ROM hack.
 ## Running Riivolution
-1. Navigate to the homebrew channel and load Riivolution.
-2. On Riivolution there will be an `Install` button, press this if you want to install Riivolution to the wii menu
-3. Use the dpad on the wii remote to enable the features of the ROM hack
-4. Press Launch and the game should now Launch with the ROM hack
+1. Access the Homebrew Channel on your Wii and launch Riivolution.
+2. Within Riivolution, locate and select the "Install" button if you wish to install Riivolution to the Wii menu.
+3. Use the directional pad (dpad) on your Wii remote to enable the specific features or modifications provided by the ROM hack.
+4. Press the "Launch" button to initiate the game, which should now start with the applied ROM hack.
