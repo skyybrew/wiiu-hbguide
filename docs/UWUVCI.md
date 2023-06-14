@@ -1,4 +1,4 @@
-##     Setup.
+## UWUVCI Setup.
 
 !> Note, the file otp.bin will be required from your Wii-U's NAND dump.
 
@@ -8,7 +8,7 @@
 
 [UWUVCI](https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/download/v3.99.9.1/UWUVCI_INSTALLER.exe)
 
-[.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
+[Microsoft .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
 [Windows .Net Core](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
@@ -26,4 +26,22 @@
 6. Once both the CKey and TKey are entered, you can download the base game.
 7. (For Wii only) The `Wii U ANCAST KEY` and the `otp.bin` file will be required again.
 8. Choose `WUP Installable`, and after the download is complete, place the downloaded folder into the `install` folder on the Wii U SD card.
-9. That's it! Enjoy playing your VC injects!
+
+## Installing the WUP
+
+1. Insert the SD card into your WiiU.
+2. Turn the console on.
+3. Go into the Homebrew Launcher.
+4. Launch WUP Installer GX2.
+5. On the gamepad, you should see everything in the install folder.
+6. Tap the game we made earlier (you will see its name.)
+7. It will ask if you want to install, click yes.
+8. It will ask where you want to install. Select either your NAND or USB.
+9. It will install.
+
+## Booting the Virtual Console game.
+
+1. Return to the main WiiU Home menu.
+2. In the home menu, you should see the app on your WiiU menu!
+3. Click on it to launch, as if you would with any other app.
+4. You are done! Happy gaming!
