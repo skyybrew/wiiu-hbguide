@@ -1,10 +1,10 @@
-# UWUVCI Setup.
+##     Setup.
 
 !> Note, the file otp.bin will be required from your Wii-U's NAND dump.
 
 !> Most N64 Rom Hacks, All SNES Co-Processor games, and DSi Enchanced games will NOT work.
 
-# Downloading UWUVCI & Peripherals.
+## Downloading UWUVCI & Peripherals.
 
 [UWUVCI](https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/download/v3.99.9.1/UWUVCI_INSTALLER.exe)
 
@@ -16,7 +16,7 @@
 
 [macOS .Net Core](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.426-macos-x64-installer)
 
-# Creating the game.
+## Creating the game.
 
 1. Choose a base game (e.g., Mario Kart DS, Super Mario 64).
 2. Select the ROM path for the chosen base game (locate your legally dumped ROM and select it).
